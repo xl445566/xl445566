@@ -20,9 +20,3 @@
 
 # 💻 Github Stats.
 [![Dongsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xl445566&show_icons=true&theme=dark&count_private=true)](https://github.com/xl445566)
-
-</br>
-
-# 📌 Languages.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xl445566&layout=compact&theme=dark)](https://github.com/xl445566)
