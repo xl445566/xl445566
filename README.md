@@ -19,4 +19,4 @@
 </br>
 
 # 💻 Github Stats.
-[![Dongsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xl445566&show_icons=true&theme=dark&count_private=true)](https://github.com/xl445566)
+[![Dongsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xl445566&show_icons=true&theme=light&count_private=true)](https://github.com/xl445566)
