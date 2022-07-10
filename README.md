@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=%20Dongsu%20Seo&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&height=200&section=header&text=%20Dongsu%20Seo&fontSize=50&animation=fadeIn)
 
 
 # 🖐 Hi There.
