@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=%20Dongsu%20Seo&fontSize=50&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20DongsuSeo%20&height=200&fontSize=90&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
 # 🖐 Hi There.
 ### 🌱 I'm Dongsu Seo, a junior frontend developer.
