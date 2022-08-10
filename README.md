@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20DongsuSeo%20&height=200&fontSize=90&fontColor=ffffff)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
+
 
 # 🖐 Hi There.
 ### 🌱 I'm Dongsu Seo, a junior frontend developer.
@@ -20,3 +20,7 @@
 
 # 💻 Github Stats.
 [![Dongsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xl445566&show_icons=true&theme=light&count_private=true)](https://github.com/xl445566)
+
+</br>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
